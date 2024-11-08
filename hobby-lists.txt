@@ -2,3 +2,5 @@
 
 -> Playing music
 -> Singing
+-> Learning a new things
+-> Learning coding for web development
