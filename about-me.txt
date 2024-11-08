@@ -6,5 +6,6 @@
 -> Birth date: June 5th, 2007
 -> Age: 17 years old
 
+** Description:
 -> I am a vocational student at SMK Telekomunikasi Tunas Harapan with a strong interest in web development, particularly with HTML and CSS (Bootstrap and Tailwind).
 -> Currently, I am doing an internship at Dian Nuswantoro University (UDINUS), where my job involves assisting one of the staff members in developing a website to streamline work processes here.
